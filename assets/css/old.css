@@ -1,0 +1,24 @@
+/* Center the content */
+.container {
+    text-align: left; /* Để nội dung ở bên trái */
+    margin: 0 auto;
+    width: 80%; /* Điều chỉnh kích thước theo ý muốn */
+    padding: 20px;
+}
+
+/* Style for headings and paragraphs */
+h1 {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+}
+
+p {
+    
+    font-size: 16px;
+    color: #666;
+    margin: 10px 0;
+    line-height: 60px;
+    font-size: 20px;
+}
+
